@@ -1,0 +1,14 @@
+tipo:Super:15000:494.0
+tipo:Extra:14000:494.64285714285717
+tipo:Corriente:10000:868.0
+tipo:Diesel:8000:800.0
+surtidor:Juana:Super:6.0:Extra:0.0:Corriente:0.0:Diesel:0.0
+surtidor:david:Super:0.0:Extra:0.0:Corriente:132.0:Diesel:0.0
+surtidor:Pedro:Super:0.0:Extra:5.357142857142857:Corriente:0.0:Diesel:0.0
+surtidor:Julian:Super:0.0:Extra:0.0:Corriente:0.0:Diesel:0.0
+empleado:Juana:90000
+empleado:David:0
+empleado:Stefa:0
+empleado:Pedro:75000
+empleado:david:1320000
+empleado:Julian:0
